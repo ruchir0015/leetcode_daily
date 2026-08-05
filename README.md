@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
+| [0643-maximum-average-subarray-i](https://github.com/ruchir0015/leetcode_daily/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ruchir0015/leetcode_daily/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
