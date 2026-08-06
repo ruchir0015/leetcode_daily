@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/ruchir0015/leetcode_daily/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ruchir0015/leetcode_daily/tree/master/0643-maximum-average-subarray-i) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/ruchir0015/leetcode_daily/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
