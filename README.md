@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
 | [0643-maximum-average-subarray-i](https://github.com/ruchir0015/leetcode_daily/tree/master/0643-maximum-average-subarray-i) |
+| [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
+| [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-stone-removal-game](https://github.com/ruchir0015/leetcode_daily/tree/master/3360-stone-removal-game) |
@@ -69,4 +71,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
