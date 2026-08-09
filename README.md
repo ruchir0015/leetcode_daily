@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ruchir0015/leetcode_daily/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ruchir0015/leetcode_daily/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ruchir0015/leetcode_daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
