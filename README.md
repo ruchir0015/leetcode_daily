@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ruchir0015/leetcode_daily/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-stone-removal-game](https://github.com/ruchir0015/leetcode_daily/tree/master/3360-stone-removal-game) |
@@ -77,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ruchir0015/leetcode_daily/tree/master/0374-guess-number-higher-or-lower) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
