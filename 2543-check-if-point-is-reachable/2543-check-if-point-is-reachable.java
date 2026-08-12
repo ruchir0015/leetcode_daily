@@ -11,7 +11,7 @@ class Solution {
         return g == 1;
     }
 
-    public int gcd(int a, int b) {
+    private int gcd(int a, int b) {
         while (b != 0) {
             int temp = a % b;
             a = b;
