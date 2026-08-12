@@ -7,11 +7,9 @@ class Solution {
         while (g % 2 == 0) {
             g /= 2;
         }
-
         return g == 1;
     }
-
-    private int gcd(int a, int b) {
+    public int gcd(int a, int b) {
         while (b != 0) {
             int temp = a % b;
             a = b;
