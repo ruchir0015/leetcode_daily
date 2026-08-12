@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
+| [2543-check-if-point-is-reachable](https://github.com/ruchir0015/leetcode_daily/tree/master/2543-check-if-point-is-reachable) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-stone-removal-game](https://github.com/ruchir0015/leetcode_daily/tree/master/3360-stone-removal-game) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
+| [2543-check-if-point-is-reachable](https://github.com/ruchir0015/leetcode_daily/tree/master/2543-check-if-point-is-reachable) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
 |  |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/ruchir0015/leetcode_daily/tree/master/2543-check-if-point-is-reachable) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2543-check-if-point-is-reachable](https://github.com/ruchir0015/leetcode_daily/tree/master/2543-check-if-point-is-reachable) |
 <!---LeetCode Topics End-->
