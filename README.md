@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ruchir0015/leetcode_daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2543-check-if-point-is-reachable](https://github.com/ruchir0015/leetcode_daily/tree/master/2543-check-if-point-is-reachable) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ruchir0015/leetcode_daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
