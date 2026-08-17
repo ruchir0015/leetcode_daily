@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ruchir0015/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1563-stone-game-v](https://github.com/ruchir0015/leetcode_daily/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/ruchir0015/leetcode_daily/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ruchir0015/leetcode_daily/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ruchir0015/leetcode_daily/tree/master/2029-stone-game-ix) |
 | [2543-check-if-point-is-reachable](https://github.com/ruchir0015/leetcode_daily/tree/master/2543-check-if-point-is-reachable) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ruchir0015/leetcode_daily/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ruchir0015/leetcode_daily/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/ruchir0015/leetcode_daily/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ruchir0015/leetcode_daily/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
