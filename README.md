@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ruchir0015/leetcode_daily/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
 | [0875-koko-eating-bananas](https://github.com/ruchir0015/leetcode_daily/tree/master/0875-koko-eating-bananas) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ruchir0015/leetcode_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruchir0015/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ruchir0015/leetcode_daily/tree/master/1386-cinema-seat-allocation) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0202-happy-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ruchir0015/leetcode_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1386-cinema-seat-allocation](https://github.com/ruchir0015/leetcode_daily/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ruchir0015/leetcode_daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ruchir0015/leetcode_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
