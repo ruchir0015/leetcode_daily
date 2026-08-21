@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/ruchir0015/leetcode_daily/tree/master/0190-reverse-bits) |
 | [1386-cinema-seat-allocation](https://github.com/ruchir0015/leetcode_daily/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ruchir0015/leetcode_daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ruchir0015/leetcode_daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruchir0015/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/ruchir0015/leetcode_daily/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
