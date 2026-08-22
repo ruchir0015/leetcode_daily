@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ruchir0015/leetcode_daily/tree/master/0125-valid-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ruchir0015/leetcode_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ruchir0015/leetcode_daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ruchir0015/leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
 ## Floyd's Cycle Finding Algorithm
