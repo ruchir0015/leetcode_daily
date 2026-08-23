@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/ruchir0015/leetcode_daily/tree/master/1563-stone-game-v) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/ruchir0015/leetcode_daily/tree/master/2029-stone-game-ix) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchir0015/leetcode_daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ruchir0015/leetcode_daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ruchir0015/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruchir0015/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchir0015/leetcode_daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ruchir0015/leetcode_daily/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ruchir0015/leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0202-happy-number) |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchir0015/leetcode_daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchir0015/leetcode_daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Euclidean Algorithm
 |  |
