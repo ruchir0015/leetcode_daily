@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ruchir0015/leetcode_daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/0045-jump-game-ii) |
+| [0073-set-matrix-zeroes](https://github.com/ruchir0015/leetcode_daily/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchir0015/leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/ruchir0015/leetcode_daily/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0202-happy-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ruchir0015/leetcode_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1386-cinema-seat-allocation](https://github.com/ruchir0015/leetcode_daily/tree/master/1386-cinema-seat-allocation) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ruchir0015/leetcode_daily/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
 ## Pigeonhole Principle
 |  |
