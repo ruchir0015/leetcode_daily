@@ -1,17 +1,13 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        int smallest = 1;
-        HashSet<Integer> multipleOfK = new HashSet<>();
-        for (int i = 0; i < nums.length; i++) {
-            int num = nums[i];
-            if (num % k == 0)
-                multipleOfK.add(num / k);
-            if (num / k == smallest) {
-                while (multipleOfK.contains(smallest)) {
-                    smallest++;
-                }
+        boolean[] present = new boolean[nums.length + 2];
+        for (int num : nums) {
+            if (num % k == 0) {
+                int x = num / k;
+                if (x < present.length) present[x] = true;
             }
         }
-        return smallest * k;
+        for (int x = 1; x < present.length; x++) if (!present[x]) return x * k;
+        return -1;
     }
 }
