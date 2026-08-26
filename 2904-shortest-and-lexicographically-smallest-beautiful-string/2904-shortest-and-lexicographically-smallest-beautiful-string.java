@@ -1,17 +1,12 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
-        int left = 0,count = 0;
         String ans = "";
-        for (int right = 0; right < s.length(); right++) {
-            if (s.charAt(right) == '1') count++;
-            while (count > k) {
-                if (s.charAt(left) == '1') count--;
-                left++;
-            }
-            if (count == k) {
-                while (s.charAt(left) == '0') left++;
-                String curr = s.substring(left, right + 1);
-                if (ans.equals("") || curr.length() < ans.length() ||(curr.length() == ans.length() && curr.compareTo(ans) < 0)) ans = curr;
+        for (int l = 0, c = 0, r = 0; r < s.length(); r++) {
+            c += s.charAt(r) - '0';
+            while (c > k || (l < r && s.charAt(l) == '0')) c -= s.charAt(l++) - '0';
+            if (c == k) {
+                String cur = s.substring(l, r + 1);
+                if (ans.isEmpty() || cur.length() < ans.length() || (cur.length() == ans.length() && cur.compareTo(ans) < 0)) ans = cur;
             }
         }
         return ans;
