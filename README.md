@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/ruchir0015/leetcode_daily/tree/master/0125-valid-palindrome) |
+| [0481-magical-string](https://github.com/ruchir0015/leetcode_daily/tree/master/0481-magical-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ruchir0015/leetcode_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/ruchir0015/leetcode_daily/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ruchir0015/leetcode_daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/ruchir0015/leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0202-happy-number) |
+| [0481-magical-string](https://github.com/ruchir0015/leetcode_daily/tree/master/0481-magical-string) |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchir0015/leetcode_daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ruchir0015/leetcode_daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
