@@ -1,69 +1,43 @@
 class Solution {
     public String lexPalindromicPermutation(String s, String target) {
-        int[] freq = new int[26];
-        for (int i = 0; i < s.length(); i++)
-            freq[s.charAt(i) - 'a']++;
+        int[] f = new int[26];
+        for (char c : s.toCharArray()) f[c - 'a']++;
 
-        char center = 0;
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] % 2 != 0) {
-                if (center != 0)
-                    return "";
-                center = (char) ('a' + i);
-                freq[i]--;
+        char mid = 0;
+        for (int i = 0; i < 26; i++)
+            if (f[i] % 2 == 1) {
+                if (mid != 0) return "";
+                mid = (char) ('a' + i);
+                f[i]--;
             }
-        }
 
-        int sz = s.length();
-        int half = sz / 2;
-        for (int i = 0; i < half; i++)
-            freq[target.charAt(i) - 'a'] -= 2;
+        int half = s.length() / 2;
+        for (int i = 0; i < half; i++) f[target.charAt(i) - 'a'] -= 2;
 
-        if (check(freq)) {
+        if (valid(f)) {
             String head = target.substring(0, half);
-            String rev = new StringBuilder(head).reverse().toString();
-            String tail = "";
-            if (center != 0)
-                tail += center;
-            tail += rev;
-            if (tail.compareTo(target.substring(half)) > 0)
-                return head + tail;
+            String tail = (mid == 0 ? "" : String.valueOf(mid)) + new StringBuilder(head).reverse();
+            if (tail.compareTo(target.substring(half)) > 0) return head + tail;
         }
 
         for (int i = half - 1; i >= 0; i--) {
-            char w = target.charAt(i);
-            freq[w - 'a'] += 2;
-            if (!check(freq))
-                continue;
-
-            for (int j = (w - 'a') + 1; j < 26; j++) {
-                if (freq[j] == 0)
-                    continue;
-                freq[j] -= 2;
-                StringBuilder answer = new StringBuilder(target.substring(0, i + 1));
-                answer.setCharAt(i, (char) ('a' + j));
-
-                for (int k = 0; k < 26; k++) {
-                    int cnt = freq[k] / 2;
-                    for (int m = 0; m < cnt; m++)
-                        answer.append((char) ('a' + k));
-                }
-
-                String part = new StringBuilder(answer).reverse().toString();
-                if (center != 0)
-                    answer.append(center);
-                answer.append(part);
-                return answer.toString();
+            f[target.charAt(i) - 'a'] += 2;
+            if (!valid(f)) continue;
+            for (int j = target.charAt(i) - 'a' + 1; j < 26; j++) {
+                if (f[j] == 0) continue;
+                f[j] -= 2;
+                StringBuilder head = new StringBuilder(target.substring(0, i)).append((char) ('a' + j));
+                for (int k = 0; k < 26; k++)
+                    for (int m = 0; m < f[k] / 2; m++) head.append((char) ('a' + k));
+                String rev = new StringBuilder(head).reverse().toString();
+                return mid == 0 ? head.toString() + rev : head + String.valueOf(mid) + rev;
             }
         }
-
         return "";
     }
 
-    boolean check(int[] freq) {
-        for (int v : freq)
-            if (v < 0)
-                return false;
+    boolean valid(int[] f) {
+        for (int v : f) if (v < 0) return false;
         return true;
     }
 }
