@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ruchir0015/leetcode_daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ruchir0015/leetcode_daily/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3903-smallest-stable-index-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/1140-stone-game-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3903-smallest-stable-index-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
