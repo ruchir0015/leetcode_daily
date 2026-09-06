@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0115-distinct-subsequences](https://github.com/ruchir0015/leetcode_daily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ruchir0015/leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0481-magical-string](https://github.com/ruchir0015/leetcode_daily/tree/master/0481-magical-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ruchir0015/leetcode_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/ruchir0015/leetcode_daily/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchir0015/leetcode_daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0509-fibonacci-number) |
