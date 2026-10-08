@@ -14,9 +14,7 @@ class DataStream {
 
         if(num == value) c++;
 
-        else{
-            c = 0;
-        }
+        else c = 0;
 
         return c >= k;
     }
