@@ -1,22 +1,22 @@
 class Solution {
     public int minAddToMakeValid(String s) {
         
-        int open_count = 0;
-        int add_count = 0;
+        int openCount = 0;
+        int addCount = 0;
 
         for(char ch : s.toCharArray()) {
 
-            if(ch == '(') open_count ++;
+            if(ch == '(') openCount ++;
 
             else {
-                open_count--;
-                if(open_count < 0) {
-                    open_count = 0;
-                    add_count++;
+                openCount--;
+                if(openCount < 0) {
+                    openCount = 0;
+                    addCount++;
                 }
             }
         }
 
-        return open_count + add_count;
+        return openCount + addCount;
     }
 }
