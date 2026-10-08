@@ -11,9 +11,9 @@ class DataStream {
     }
     
     public boolean consec(int num) {
-        if(num == value){
-            c++;
-        }else{
+        if(num == value) c++;
+        
+        else{
             c = 0;
             return false;
         }
