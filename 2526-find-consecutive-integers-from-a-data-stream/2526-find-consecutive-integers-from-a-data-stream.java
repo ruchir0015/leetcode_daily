@@ -11,19 +11,14 @@ class DataStream {
     }
     
     public boolean consec(int num) {
+
         if(num == value) c++;
-        
+
         else{
             c = 0;
-            return false;
         }
 
-        if(c == k){
-            c--;
-            return true;
-        }
-
-        return false;
+        return c >= k;
     }
 }
 
