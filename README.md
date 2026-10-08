@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/ruchir0015/leetcode_daily/tree/master/1386-cinema-seat-allocation) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/ruchir0015/leetcode_daily/tree/master/1563-stone-game-v) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchir0015/leetcode_daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ruchir0015/leetcode_daily/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2029-stone-game-ix](https://github.com/ruchir0015/leetcode_daily/tree/master/2029-stone-game-ix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchir0015/leetcode_daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ruchir0015/leetcode_daily/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ruchir0015/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ruchir0015/leetcode_daily/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/ruchir0015/leetcode_daily/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ruchir0015/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ruchir0015/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchir0015/leetcode_daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchir0015/leetcode_daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ruchir0015/leetcode_daily/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ruchir0015/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
