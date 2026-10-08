@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0202-happy-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ruchir0015/leetcode_daily/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1386-cinema-seat-allocation](https://github.com/ruchir0015/leetcode_daily/tree/master/1386-cinema-seat-allocation) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ruchir0015/leetcode_daily/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ruchir0015/leetcode_daily/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ruchir0015/leetcode_daily/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ruchir0015/leetcode_daily/tree/master/2029-stone-game-ix) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ruchir0015/leetcode_daily/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ruchir0015/leetcode_daily/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
@@ -341,8 +343,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchir0015/leetcode_daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ruchir0015/leetcode_daily/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ruchir0015/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ruchir0015/leetcode_daily/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/ruchir0015/leetcode_daily/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ruchir0015/leetcode_daily/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ruchir0015/leetcode_daily/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
