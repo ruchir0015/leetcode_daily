@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ruchir0015/leetcode_daily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ruchir0015/leetcode_daily/tree/master/0125-valid-palindrome) |
 | [0481-magical-string](https://github.com/ruchir0015/leetcode_daily/tree/master/0481-magical-string) |
+| [1021-remove-outermost-parentheses](https://github.com/ruchir0015/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ruchir0015/leetcode_daily/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/ruchir0015/leetcode_daily/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ruchir0015/leetcode_daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruchir0015/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1021-remove-outermost-parentheses](https://github.com/ruchir0015/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3477-fruits-into-baskets-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ruchir0015/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
