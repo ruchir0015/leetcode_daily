@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruchir0015/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ruchir0015/leetcode_daily/tree/master/0162-find-peak-element) |
 | [0204-count-primes](https://github.com/ruchir0015/leetcode_daily/tree/master/0204-count-primes) |
+| [0456-132-pattern](https://github.com/ruchir0015/leetcode_daily/tree/master/0456-132-pattern) |
 | [0643-maximum-average-subarray-i](https://github.com/ruchir0015/leetcode_daily/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ruchir0015/leetcode_daily/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ruchir0015/leetcode_daily/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ruchir0015/leetcode_daily/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/ruchir0015/leetcode_daily/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/ruchir0015/leetcode_daily/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/ruchir0015/leetcode_daily/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruchir0015/leetcode_daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ruchir0015/leetcode_daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/ruchir0015/leetcode_daily/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ruchir0015/leetcode_daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ruchir0015/leetcode_daily/tree/master/1021-remove-outermost-parentheses) |
 ## Divide and Conquer
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/ruchir0015/leetcode_daily/tree/master/0456-132-pattern) |
 | [3477-fruits-into-baskets-ii](https://github.com/ruchir0015/leetcode_daily/tree/master/3477-fruits-into-baskets-ii) |
 ## Bracket Sequences
 |  |
@@ -333,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ruchir0015/leetcode_daily/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ruchir0015/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/ruchir0015/leetcode_daily/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
