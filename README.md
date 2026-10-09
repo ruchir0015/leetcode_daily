@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ruchir0015/leetcode_daily/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/ruchir0015/leetcode_daily/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ruchir0015/leetcode_daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ruchir0015/leetcode_daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2029-stone-game-ix](https://github.com/ruchir0015/leetcode_daily/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ruchir0015/leetcode_daily/tree/master/2073-time-needed-to-buy-tickets) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchir0015/leetcode_daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ruchir0015/leetcode_daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ruchir0015/leetcode_daily/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ruchir0015/leetcode_daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Pigeonhole Principle
 |  |
 | ------- |
