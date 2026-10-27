@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ruchir0015/leetcode_daily/tree/master/0202-happy-number) |
 | [0481-magical-string](https://github.com/ruchir0015/leetcode_daily/tree/master/0481-magical-string) |
 | [0832-flipping-an-image](https://github.com/ruchir0015/leetcode_daily/tree/master/0832-flipping-an-image) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ruchir0015/leetcode_daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ruchir0015/leetcode_daily/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ruchir0015/leetcode_daily/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Floyd's Cycle Finding Algorithm
@@ -362,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/ruchir0015/leetcode_daily/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Linked List
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ruchir0015/leetcode_daily/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
